@@ -11,6 +11,9 @@ Includes Mario themed enemies
 
 -Sleeping means you will recover some health
 
+
 Your enemy will also choose to either attack you or sleep
+
 Have Fun!
+
 Once you reach level 10 the game will end
