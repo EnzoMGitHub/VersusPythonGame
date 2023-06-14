@@ -38,8 +38,10 @@ class Players:
 
   def dockPHealth(self, number):
     self.health -= number
+  
   def levelUp(self):
     self.level+=1
+    print("Congratulations " + self.name + ", you have leveled up!")
   #For Gameplay
   def findEnemy(self):
     enemies = ["Goomba","Koopa","Hammer Bro","Koopa Paratroopa","Boo","Kamek","Bullet Bill","Big Boo","Bowser Jr","Bowser"]
