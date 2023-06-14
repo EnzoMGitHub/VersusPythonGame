@@ -7,9 +7,9 @@ Includes Mario themed enemies
 ### You can choose to either attack or sleep
 
 
--Attacking means you will deal damage to your enemy (determined based on your level)
+- Attacking means you will deal damage to your enemy (determined based on your level)
 
--Sleeping means you will recover some health
+- Sleeping means you will recover some health
 
 
 Your enemy will also choose to either attack you or sleep
